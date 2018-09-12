@@ -1,0 +1,22 @@
+.navbar {
+    background-color: gray;
+    border-radius: 20px;
+    height:10%;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+ul li a.nav-link{
+  color: black;
+  ont-family: 'Indie Flower', cursive;
+}
+
+{
+   
+   
+}
