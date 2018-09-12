@@ -1,4 +1,53 @@
 .navbar {
+
+}
+    .nav-link {
+        color: blue;
+        font-family: 'Shadows Into Light', cursive;
+        font-size: 30px;
+        font-weight: bolder;
+        letter-spacing: 3px;
+        padding-left: 15px;
+
+    }
+
+    a.nav-link {
+        text-align: left;
+    }
+
+    nav>a:hover {
+        color: white;
+    }
+
+    .navbar-brand {
+        font-family: 'Shadows Into Light', cursive;
+    }
+
+    #textlogo {
+        font-size: 3em;
+        font-family: 'Monoton', cursive;
+    }
+
+    hr {
+        font-size: 10em;
+        color: gray;
+        height: 100%;
+        width: 50%;
+        font-weight: bolder;
+
+    }
+    
+    .smalltext{
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+.box{
+    color background: gold;
+}
+
+    /*
+.navbar {
     background-color: gray;
     border-radius: 20px;
     height:10%;
@@ -19,4 +68,4 @@ ul li a.nav-link{
 {
    
    
-}
+}*/
